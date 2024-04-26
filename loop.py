@@ -251,7 +251,7 @@
 # print("reverse_sentence: ",reverse_sentence)
 
 # #Q6: reverse a number =12345==>54321
-
+123
 # reverse_number="12345"
 # rev=reverse_number[::-1]
 # print(rev)

@@ -131,6 +131,7 @@
 #     if(n<0):
 #         print(n)
 
+
 #Q:sum of even numbers
 # n=int(input("enter a number: "))
 # j=0
